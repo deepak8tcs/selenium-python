@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9f32a9b-3db8-4af6-82ad-d1d3dbc7a8ba" name="Default Changelist" comment="" />
+    <list default="true" id="a9f32a9b-3db8-4af6-82ad-d1d3dbc7a8ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pages/HomePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/scripts/GoogleSearchWithPom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/scripts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/GoogleSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/scripts/GoogleSearch.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VKIKGeXlf3CQSxI2R2Yk2m1FRa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +36,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/scripts" />
   </component>
-  <component name="RunManager" selected="Python.GoogleSearch (1)">
-    <configuration name="GoogleSearch (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\selenium-python\test\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\selenium-python\test\scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for GoogleSearchWithPom.GoogleSearchTest.test_search">
+    <configuration name="GoogleSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/GoogleSearch.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\selenium-python\test\scripts\GoogleSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\selenium-python\test\GoogleSearch.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\selenium-python\test\scripts\GoogleSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,32 +90,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for GoogleSearchWithPom.GoogleSearchTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="selenium-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\selenium-python\test\__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;GoogleSearchWithPom.GoogleSearchTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for GoogleSearchWithPom.GoogleSearchTest.test_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;GoogleSearchWithPom.GoogleSearchTest.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in GoogleSearchWithPom.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/scripts/GoogleSearchWithPom.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GoogleSearch (1)" />
+        <item itemvalue="Python tests.Unittests for GoogleSearchWithPom.GoogleSearchTest.test_search" />
+        <item itemvalue="Python tests.Unittests in GoogleSearchWithPom.py" />
+        <item itemvalue="Python tests.Unittests for GoogleSearchWithPom.GoogleSearchTest" />
         <item itemvalue="Python.GoogleSearch" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -121,25 +167,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1308" height="156" key="GridCell.Tab.0.bottom" timestamp="1576998651571">
+    <state width="1344" height="200" key="GridCell.Tab.0.bottom" timestamp="1577024835027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576998651571" />
-    <state width="1308" height="156" key="GridCell.Tab.0.center" timestamp="1576998651554">
+    <state width="1344" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577024835027" />
+    <state width="1344" height="200" key="GridCell.Tab.0.center" timestamp="1577024835026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576998651554" />
-    <state width="1308" height="156" key="GridCell.Tab.0.left" timestamp="1576998651554">
+    <state width="1344" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577024835026" />
+    <state width="1344" height="200" key="GridCell.Tab.0.left" timestamp="1577024835026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576998651554" />
-    <state width="1308" height="156" key="GridCell.Tab.0.right" timestamp="1576998651571">
+    <state width="1344" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577024835026" />
+    <state width="1344" height="200" key="GridCell.Tab.0.right" timestamp="1577024835027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576998651571" />
-    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1576995357752">
+    <state width="1344" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577024835027" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577023317645">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576995357752" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577023317645" />
   </component>
 </project>
